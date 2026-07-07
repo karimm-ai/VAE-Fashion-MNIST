@@ -4,5 +4,5 @@ New/
 # env
 vae/
 
-# model
-vae50.pth
+# models
+*.pth
