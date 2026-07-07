@@ -46,7 +46,7 @@ The model was trained for 100 epochs on Fashion-MNIST with a batch size of 64.
 ![Training Loss](loss.png)
 
 
-Reconstructions closely resemble the originals — some outputs show mild blurriness. Below is a sample of original images and reconstructed ones after 100 epochs.
+Reconstructions closely resemble the originals — some outputs show mild blurriness. Below is a sample of original images (TOP) and reconstructed ones (BOTTOM) after 100 epochs.
 
 ![Samples](output.png)
 
@@ -77,7 +77,7 @@ pip install --pre torch torchvision --index-url https://download.pytorch.org/whl
 
 ## Future Work
 
-- Convolutional (rather than fully connected) decoder
+- Implement convolutional (rather than fully connected) decoder
 
 ---
 
