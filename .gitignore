@@ -1,0 +1,8 @@
+# data 
+New/
+
+# env
+vae/
+
+# model
+vae50.pth
